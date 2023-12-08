@@ -1,21 +1,22 @@
 # Two-Stage Stochastic Problem Solver for INDUSTRY - MANUFACTURING
 
-This repository hosts the solution code for the Problem 1 from the assignment of
-the Math Modeling course at HCMUT 2023, focusing on the INDUSTRY - MANUFACTURING
-sector. The code implements a two-stage stochastic problem-solving algorithm
-that optimizes pre-order and production decisions under uncertainty.
+This repository hosts the solution code for the **`Problem 1`** from the
+assignment of **`MATHEMATICAL MODELING (CO2011) - HCMUT 2023`**, focusing on the
+**`INDUSTRY - MANUFACTURING`** problem. The code implements a two-stage
+stochastic problem-solving algorithm that optimizes pre-order and production
+decisions under uncertainty.
 
 ## Overview
 
-The algorithm is designed to address a stochastic two-stage problem, which is a
-common challenge in the field of industrial manufacturing. The goal is to make
-informed decisions in the first stage (pre-order) without complete knowledge of
-future events, and then adjust those decisions in the second stage (production)
-once the uncertainty is resolved.
+The algorithm is designed to address a **stochastic two-stage problem**, which
+is a common challenge in the field of industrial manufacturing. The goal is to
+make informed decisions in the **first stage** (pre-order) without complete
+knowledge of future events, and then adjust those decisions in the **second
+stage** (production) once the uncertainty is resolved.
 
-The solution utilizes the GAMS Python API (GAMSPy) to model the problem and
-compute the optimal strategy, taking into account the probabilistic nature of
-demand and other uncertain parameters.
+The solution utilizes the **GAMS Python API** (`GAMSPy`) to model the problem
+and compute the optimal strategy, taking into account the probabilistic nature
+of demand and other uncertain parameters.
 
 By leveraging the power of mathematical optimization and stochastic modeling,
 this code helps students and professionals in the manufacturing industry to
