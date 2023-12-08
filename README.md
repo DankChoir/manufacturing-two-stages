@@ -52,3 +52,24 @@ optimal results and scenario-specific outcomes.
 ```bash
 python main.py
 ```
+
+## Authors
+
+- **Nguyễn Ngọc Đình Khoa** - Team Leader, Work Distribution, Problem
+  Understanding, Documentation
+- **Lê Phong Hào** - Assistant Leader, Documentation
+- **Lê Hà Nguyên Khánh** - Documentation
+- **Phạm Trần Đăng Khoa** - Code Prototype, Source Code Documentation
+- **Huỳnh Thanh Duy** - Source Code Completion, Input Implementation
+
+## Acknowledgments
+
+- Heartfelt thanks to all team members for their contributions and dedication to
+  the project.
+- Special appreciation to **Nguyễn Ngọc Đình Khoa** for leading the team and
+  guiding the project's direction.
+- Gratitude to **Lê Phong Hào** and **Lê Hà Nguyên Khánh** for their efforts in
+  documenting and understanding the problem.
+- A big thank you to **Huỳnh Thanh Duy** for his work on finalizing the source
+  code.
+- Kudos to everyone involved for their hard work and collaboration.
