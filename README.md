@@ -10,9 +10,9 @@ decisions under uncertainty.
 
 The algorithm is designed to address a **stochastic two-stage problem**, which
 is a common challenge in the field of industrial manufacturing. The goal is to
-make informed decisions in the **first stage** (pre-order) without complete
+make informed decisions in the **first stage** (Pre-order) without complete
 knowledge of future events, and then adjust those decisions in the **second
-stage** (production) once the uncertainty is resolved.
+stage** (Production) once the uncertainty is resolved.
 
 The solution utilizes the **GAMS Python API** (`GAMSPy`) to model the problem
 and compute the optimal strategy, taking into account the probabilistic nature
@@ -35,9 +35,10 @@ optimal results and scenario-specific outcomes.
 ### Dependencies
 
 - Python 3.10.11
-- GAMSPy: A Python API for GAMS that allows for modeling and solving
-  optimization problems.
-- NumPy: A fundamental package for scientific computing with Python.
+- [GAMSPy](https://github.com/GAMS-dev/gamspy): A Python API for GAMS that
+  allows for modeling and solving optimization problems.
+- [NumPy](https://github.com/numpy/numpy.git): A fundamental package for
+  scientific computing with Python.
 
 ### Installing
 
